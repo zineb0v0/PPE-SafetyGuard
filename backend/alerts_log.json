@@ -1,0 +1,40 @@
+[
+  {
+    "time": "2025-08-07 09:44:31",
+    "message": "PPE Violation Detected: no_goggles",
+    "status": "violation",
+    "id": "alert_1754556271.249092",
+    "timestamp": 1754556271.249092,
+    "severity": 3,
+    "metadata": {
+      "class_id": 6,
+      "detection_count": 3,
+      "time_window": 10
+    }
+  },
+  {
+    "time": "2025-08-07 09:45:14",
+    "message": "PPE Violation Detected: no_goggles",
+    "status": "violation",
+    "id": "alert_1754556314.696248",
+    "timestamp": 1754556314.696248,
+    "severity": 3,
+    "metadata": {
+      "class_id": 6,
+      "detection_count": 3,
+      "time_window": 10
+    }
+  },
+  {
+    "time": "2025-08-07 09:45:15",
+    "message": "PPE Violation Detected: no_helmet",
+    "status": "violation",
+    "id": "alert_1754556315.507457",
+    "timestamp": 1754556315.507457,
+    "severity": 3,
+    "metadata": {
+      "class_id": 7,
+      "detection_count": 10,
+      "time_window": 10
+    }
+  }]

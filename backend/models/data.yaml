@@ -1,0 +1,22 @@
+names:
+- boots
+- gloves
+- goggles
+- helmet
+- no_boots
+- no_gloves
+- no_goggles
+- no_helmet
+- no_vest
+- person
+- vest
+nc: 11
+roboflow:
+  license: CC BY 4.0
+  project: ppe_finalversion-aopj6
+  url: https://universe.roboflow.com/yolov8-test-project/ppe_finalversion-aopj6/dataset/1
+  version: 1
+  workspace: yolov8-test-project
+test: ../test/images
+train: ../train/images
+val: ../valid/images
